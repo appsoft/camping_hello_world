@@ -25,5 +25,5 @@ Wikipedia Article: <http://en.wikipedia.org/wiki/Camping_(microframework)>
 
 Source for Camping: <https://github.com/camping/camping/blob/master/lib/camping.rb>
 
-Slate article on _why: <http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html>
+Slate article on _why: <http://tinyurl.com/Slate-why>
 
