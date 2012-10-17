@@ -1,7 +1,7 @@
-A First Level Header
+Hello World for Camping
 ====================
 
-A Second Level Header
+Setup Directions
 ---------------------
 
 Now is the time for all good men to come to
